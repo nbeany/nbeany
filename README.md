@@ -57,7 +57,7 @@ Full-Stack Developer & Junior Data Engineer passionate about building scalable w
 
 ## 📫 Connect With Me
 
-📌 Portfolio: **https://abrehamnigus.vercel.app**  
+📌 Portfolio: **https://abreham-portfolio-1.vercel.app/**  
 📩 Email: **abrehamnigus1996@gmail.com**  
 💼 LinkedIn: **https://linkedin.com/in/abreham-nigus-377850332**  
 📱 Telegram: **https://t.me/nbeany**
