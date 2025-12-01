@@ -49,12 +49,6 @@ Full-Stack Developer & Junior Data Engineer passionate about building scalable w
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nbeany&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nbeany&theme=radical" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nbeany&theme=dracula" />
 </p>
